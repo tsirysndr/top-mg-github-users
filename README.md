@@ -1,5 +1,11 @@
 # Top Madagascar Github Users
 
+The public contributions by users in Madagascar. This list contains users from Madagascar and cities Antananarivo Toamasina Mahajanga Antsirabe.
+
+There are 138 countries and 674 cities can be found [here](https://github.com/tsirysndr/top-github-users).
+
+There are 952 users in Madagascar. You need at least 1 followers to be on this list.
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
